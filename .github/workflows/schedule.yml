@@ -1,4 +1,4 @@
-name: Update Daily
+name: Update-Daily
 on:
   push:
     branches:
